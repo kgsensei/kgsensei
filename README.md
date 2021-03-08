@@ -7,7 +7,7 @@ For help with my projects feel free to join my discord server: https://discord.g
 
 
 ### My Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=kgsensei&theme=tokyonight&bg_color=DEG,0d1117,8b949e&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=kgsensei&theme=tokyonight&bg_color=DEG,0d1117,0d1117,8b949e&hide_border=true)
 
 ### Languages I use:
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgsensei&theme=tokyonight&bg_color=DEG,0d1117,8b949e&hide_border=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgsensei&theme=tokyonight&bg_color=DEG,0d1117,0d1117,8b949e&hide_border=true)
