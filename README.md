@@ -10,4 +10,4 @@ For help with my projects feel free to join my discord server: https://discord.g
 ![stats](https://github-readme-stats.vercel.app/api?username=kgsensei&theme=cobalt&bg_color=0d1117)
 
 ### Languages I use:
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgsensei&layout=compact&theme=cobalt&bg_color=0d1117&hide=javascript)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgsensei&theme=cobalt&bg_color=0d1117&hide=javascript)
