@@ -1,7 +1,8 @@
-# Hi there 👋
+# "Hello There"
+####       -Obi-Wan Kenobi
 
-### Stats
+### My Stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=kgsensei&theme=chartreuse-dark&bg_color=0d1117)
 
-### Languages
+### Languages I use:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgsensei&layout=compact&theme=chartreuse-dark&bg_color=0d1117)
