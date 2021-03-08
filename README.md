@@ -1,5 +1,5 @@
 # "Hello There"
-####       -Obi-Wan Kenobi
+-Obi-Wan Kenobi
 
 ### My Stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=kgsensei&theme=chartreuse-dark&bg_color=0d1117)
