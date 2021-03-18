@@ -3,6 +3,7 @@
 fetch("/kgsensei/blogData/main.json")
      .then(response => response.json())
      .then(json => {
+          alert(json)
           window.obj=JSON.parse(json);
 });
 
