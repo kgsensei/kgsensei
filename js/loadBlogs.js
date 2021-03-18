@@ -1,11 +1,14 @@
 /* Load all blogs and associated links */
 
-fetch("/kgsensei/blogData/main.json")
-     .then(response => response.json())
-     .then(json => {
-          window.obj=JSON.parse(json);
-          alert(window.obj)
-});
+var xmlhttp=new XMLHttpRequest();
+xmlhttp.onreadystatechange=function() {
+     if(this.readyState==4 && this.status==200) {
+          var blogPosts=JSON.parse(this.responseText);
+          document.getElementById("blogs").innerHTML=blogPosts.blogs;
+     }
+};
+xmlhttp.open("GET", "/kgsensei/blogData/main.json", true);
+xmlhttp.send();
 
 whilLoop=window.obj["blogs"].length;
 for(count=0;count<whilLoop;count++) {
