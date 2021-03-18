@@ -5,7 +5,10 @@ var whilLoop;
 
 $.getJSON("/kgsensei/blogData/main.json", function(json) {
      BlogJsonData=json
-     BlogJsonData=BlogJsonData.blogs
+});
+
+Object.keys(BlogJsonData).forEach((key) => {
+     console.log(`${key} : ${BlogJsonData[key]}`)
 });
 
 whilLoop=Object.keys(BlogJsonData).length;

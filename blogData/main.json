@@ -1,6 +1,4 @@
 {
-     "blogs": {
-          "Test Blog": "/text-blog",
-          "Building The Boring Blog": "/building-the-boring-blog"
-     }
+     "Test Blog": "/text-blog",
+     "Building The Boring Blog": "/building-the-boring-blog"
 }
