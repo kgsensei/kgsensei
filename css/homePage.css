@@ -7,10 +7,21 @@ body {
 
 #mainText {
      text-align: center;
+     align-self: center;
+     align-content: center;
+     align-items: center;
      color: white;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #blogHolder {
+     position: absolute;
+     top: 80%;
+     left: 50;
+     color: white;
+}
+
+#blogHolder.li {
+     font-size: 15px;
      color: white;
 }
