@@ -16,6 +16,7 @@ body {
 #blogHolder {
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      font-size: 32.5px;
+     list-style-type: circle;
      position: absolute;
      top: 70%;
      left: 12.5%;
@@ -23,7 +24,7 @@ body {
 }
 
 #blogHolder.ul {
-     list-style-type: disc;
+     list-style-type: circle;
      font-size: 32.5px;
      color: white;
 }
