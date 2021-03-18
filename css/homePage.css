@@ -8,8 +8,7 @@ body {
 #mainText {
      position: absolute;
      top: 15%;
-     left: 50%;
-     justify-content: center;
+     left: 30%;
      color: white;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

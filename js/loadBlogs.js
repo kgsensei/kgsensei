@@ -10,7 +10,7 @@ xmlhttp.onreadystatechange=function() {
 xmlhttp.open("GET", "/kgsensei/blogData/main.json", true);
 xmlhttp.send();
 
-whilLoop=window.obj["blogs"].length;
+whilLoop=blogPosts.length;
 for(count=0;count<whilLoop;count++) {
      document.getElementById("blogs").innerHTML=document.getElementById("blogs").innerHTML+"<li>"+count+"</li>";
 }
