@@ -6,6 +6,7 @@ body {
 }
 
 #mainText {
-     align-content: center;
-     align-self: center;
+     text-align: center;
+     color: white;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
