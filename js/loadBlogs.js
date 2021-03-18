@@ -3,7 +3,7 @@
 fetch("/kgsensei/blogData/main.json")
      .then(response => response.json())
      .then(json => {
-          window.obj=JSON.parse(json.blogs[0]);
+          window.obj=JSON.parse(json);
 });
 
 whilLoop=window.obj["blogs"].length;

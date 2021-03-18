@@ -8,6 +8,7 @@ body {
 #mainText {
      position: absolute;
      top: 15%;
+     left: center;
      text-align: center;
      align-self: center;
      align-content: center;
