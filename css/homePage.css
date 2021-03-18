@@ -6,10 +6,9 @@ body {
 }
 
 #mainText {
+     position: absolute;
+     top: 15%;
      text-align: center;
-     align-self: center;
-     align-content: center;
-     align-items: center;
      color: white;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -22,6 +21,7 @@ body {
 }
 
 #blogHolder.li {
-     font-size: 15px;
+     list-style-type: disc;
+     font-size: 20px;
      color: white;
 }
