@@ -1,7 +1,7 @@
 /* Load all blogs and associated links */
 
-var BlogJsonData=null
-var whilLoop=0
+var BlogJsonData;
+var whilLoop;
 
 $.getJSON("/kgsensei/blogData/main.json", function(json) {
      BlogJsonData=json
