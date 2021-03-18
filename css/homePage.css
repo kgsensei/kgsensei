@@ -21,7 +21,7 @@ body {
      color: white;
 }
 
-#blogHolder.li {
+#blogHolder.ul {
      list-style-type: disc;
      font-size: 35px;
      color: white;
