@@ -16,13 +16,13 @@ body {
 #blogHolder {
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      position: absolute;
-     top: 80%;
-     left: 7.5%;
+     top: 70%;
+     left: 12.5%;
      color: white;
 }
 
 #blogHolder.li {
      list-style-type: disc;
-     font-size: 25px;
+     font-size: 35px;
      color: white;
 }
