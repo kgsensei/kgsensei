@@ -1,6 +1,6 @@
 {
      "blogs": {
-          "0": "My First Blog:/first-blog",
-          "1": "Building The Boring Blog:/building-the-boring-blog"
+          "Test Blog": "/text-blog",
+          "Building The Boring Blog": "/building-the-boring-blog"
      }
 }

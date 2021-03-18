@@ -9,5 +9,5 @@ $.getJSON("/kgsensei/blogData/main.json", function(json) {
 
 whilLoop=Object.keys(BlogJsonData.blogs).length;
 for(count=0;count<whilLoop;count++) {
-     document.getElementById("blogs").innerHTML=document.getElementById("blogs").innerHTML+"<li>"+BlogJsonData.blogs.count+"</li>";
+     document.getElementById("blogs").innerHTML=document.getElementById("blogs").innerHTML+"<li>"+count+"</li>";
 }
