@@ -15,6 +15,7 @@ body {
 
 #blogHolder {
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 45px;
      position: absolute;
      top: 70%;
      left: 12.5%;
@@ -23,6 +24,6 @@ body {
 
 #blogHolder.ul {
      list-style-type: disc;
-     font-size: 35px;
+     font-size: 45px;
      color: white;
 }
