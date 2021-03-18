@@ -1,12 +1,16 @@
 /* CSS For The Boring Blog Home Page */
 
 body {
-     background: rgb(34,193,195);
-     background: linear-gradient(0deg, rgba(34,193,195,1) 66%, rgba(68,60,247,1) 94%, rgba(72,45,253,1) 100%);
+     background: rgb(11, 60, 61);
+     background: linear-gradient(0deg, rgb(11, 60, 61) 66%, rgba(68,60,247,1) 94%, rgba(72,45,253,1) 100%);
 }
 
 #mainText {
      text-align: center;
      color: white;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#blogHolder {
+     color: white;
 }
