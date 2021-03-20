@@ -18,7 +18,9 @@ body {
      font-size: 20px;
      list-style-type: circle;
      position: absolute;
-     top: 65%;
+     top: 55%;
+     width: 700px;
+     word-wrap: normal;
      left: 12.5%;
      color: white;
 }
