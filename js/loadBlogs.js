@@ -7,9 +7,7 @@ $.getJSON("/kgsensei/blogData/main.json", function(json) {
      BlogJsonData=json
 });
 
-Object.keys(BlogJsonData).forEach((key) => {
-     console.log(`${key} : ${BlogJsonData[key]}`)
-});
+console.log(Object.keys(BlogJsonData).forEach())
 
 whilLoop=Object.keys(BlogJsonData).length;
 for(count=0;count<whilLoop;count++) {
