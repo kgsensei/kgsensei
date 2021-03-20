@@ -1,9 +1,5 @@
 [
      {
-          "title": "Test Blog",
-          "link": "/text-blog"
-     },
-     {
           "title": "Building The Boring Blog",
           "link": "/building-the-boring-blog"
      }

@@ -23,8 +23,8 @@ body {
      color: white;
 }
 
-#blogHolder.ul {
+#blogHolder.ul,#blogHolder.a {
      list-style-type: circle;
-     font-size: 32.5px;
+     font-size: 30px;
      color: white;
 }
