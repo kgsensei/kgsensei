@@ -10,7 +10,7 @@ function LoadBlogs() {
           BlogJsonData=JSON.parse(JSON.stringify(BlogJsonData))
           document.getElementById("blogs").innerHTML=""
           BlogJsonData.forEach((item) => {
-               document.getElementById("blogs").innerHTML=document.getElementById("blogs").innerHTML+"<li><a href='/blog"+item.link+".htm'>"+item.title+"</a></li>";
+               document.getElementById("blogs").innerHTML=document.getElementById("blogs").innerHTML+"<li><a href='/kgsensei/blog/id.html?id="+item.link+"'>"+item.title+"</a></li>";
           });
      });
 }

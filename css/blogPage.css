@@ -1,4 +1,4 @@
-/* CSS For The Boring Blog Home Page */
+/* CSS For The Boring Blog Blog Page */
 
 body {
      background: rgb(11, 60, 61);
@@ -15,16 +15,10 @@ body {
 
 #blogHolder {
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     font-size: 32.5px;
+     font-size: 20px;
      list-style-type: circle;
      position: absolute;
      top: 65%;
      left: 12.5%;
-     color: white;
-}
-
-#blogHolder.ul,#blogHolder.a {
-     list-style-type: circle;
-     font-size: 30px;
      color: white;
 }
