@@ -2,6 +2,7 @@
 
 var BlogJsonData;
 var whilLoop;
+const queryString=window.location.search;
 const urlParams=new URLSearchParams(queryString);
 const blogId=urlParams.get('id');
 
@@ -10,7 +11,6 @@ function LoadBlogContent() {
      $.getJSON("/kgsensei/blogData/main.json", function(json) {
           BlogJsonData=json
           BlogJsonData=JSON.parse(JSON.stringify(BlogJsonData))
-          document.getElementById("blogs").innerHTML=""
           BlogJsonData.forEach((item) => {
                if(item.link == blogId) {
                     document.getElementById("blogTitleInsertData").innerHTML=item.title
