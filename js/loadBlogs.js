@@ -7,10 +7,10 @@ function LoadBlogs() {
      localStorage.clear()
      $.getJSON("/kgsensei/blogData/main.json", function(json) {
           BlogJsonData=json
-     });
-     BlogJsonData=JSON.parse(JSON.stringify(BlogJsonData))
-     document.getElementById("blogs").innerHTML=""
-     BlogJsonData.forEach((item) => {
-          document.getElementById("blogs").innerHTML=document.getElementById("blogs").innerHTML+"<li><a href='"+item.link+"'>"+item.title+"</a></li>";
+          BlogJsonData=JSON.parse(JSON.stringify(BlogJsonData))
+          document.getElementById("blogs").innerHTML=""
+          BlogJsonData.forEach((item) => {
+               document.getElementById("blogs").innerHTML=document.getElementById("blogs").innerHTML+"<li><a href='"+item.link+"'>"+item.title+"</a></li>";
+          });
      });
 }
