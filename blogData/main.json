@@ -1,4 +1,10 @@
-{
-     "Test Blog": "/text-blog",
-     "Building The Boring Blog": "/building-the-boring-blog"
-}
+[
+     {
+          "title": "Test Blog",
+          "link": "/text-blog"
+     },
+     {
+          "title": "Building The Boring Blog",
+          "link": "/building-the-boring-blog"
+     }
+]
