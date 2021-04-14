@@ -10,5 +10,11 @@
           "link": "how-i-built-facial-recognition-ai",
           "subtitle": "Nothing Here",
           "text": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/QtBDL8EiNZo?autoplay=1' allow='autoplay' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+     },
+     {
+          "title": "Why Does This Blog Exist?",
+          "link": "why-does-the-boring-blog-exist",
+          "subtitle": "Talking about why the Boring Blog exists...",
+          "text": "The reason the Boring Blog exists is simple, one of my friends Daniel Kellem [<a href='https://github.com/danielkellem'>GitHub</a>] started a blog called <a href='https://danielkellem.com/'>TECHNOSTOLOGY</a> and I felt inspired. A few months later I was sitting at my desk trying to think of a new project to work on. That's when it hit me. As if the world didn't have enough blogs already, I would build my own blog. The only difference is that I would code mine from the ground up. So I started work. A day or two later and countless changes to the code we have a working blog service where all the blog posts and data are controlled by a single file. As an added bonus its 100% open source.<br>-kgsensei [Jeremy]"
      }
 ]
