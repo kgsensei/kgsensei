@@ -16,9 +16,11 @@ Older developers or nerds that don't have discord can email me [Here](mailto:ceo
 ### Why I Code:
 One of the reasons I code is because I find it really fun to work through a challenge and find a solution that works fast and well.
 
-Another one is its fun to know what your doing and you get to meet really interesting people.
+Another one is, its fun to know what your doing and you get to meet really interesting people.
 
-If you are trying to learn code and are struggling I would recommend sticking through it for a little while but remember its not for everyone and its ok to stop for a little while. If your teaching yourself, find a strategy that works for you. *Please don't ask me for lessons, I am a awful teacher.*
+If you are trying to learn code and are struggling I would recommend sticking through it for a little while but remember it's not for everyone, and it's ok to stop for a little while. If your teaching yourself, find a strategy that works for you. *Please don't ask me for lessons, I am a awful teacher.*
 
 ### If I'm Not Active For A While:
-**THIS IS COMPLETELY NORMAL FOR ME** I'm probably working on a more private project or I just don't want to be online. If you need me send me an email for text me on discord.
+**!THIS IS COMPLETELY NORMAL FOR ME!**
+
+I'm probably working on a more private project or I just don't want to be online. If you need me send me an email for text me on discord.
