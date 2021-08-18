@@ -3,16 +3,16 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .root{
-                    background-color:transparent;
+                    	background-color:transparent;
                 }.title{
-                    font-family:'Courier New',Courier,monospace;
-                    color:white;
-                    font-size:50px;
+                    	font-family:'Courier New',Courier,monospace;
+                    	color:white;
+                    	font-size:30px;
                 }.conte{
-					font-family:'Courier New',Courier,monospace;
-                    color:white;
-                    font-size:40px;
-				}
+			font-family:'Courier New',Courier,monospace;
+                    	color:white;
+                    	font-size:20px;
+		}
             </style>
             <div class="root">
 		<div class="title">kgsensei</div>
