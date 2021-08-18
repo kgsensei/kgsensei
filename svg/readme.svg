@@ -4,8 +4,10 @@
             <style>
                 .root{
                     background-color:transparent;
-                }.content{
-                    color:crimson;
+                }.title{
+                    font-family:'Courier New',Courier,monospace;
+                    color:white;
+                    font-size:50px;
                 }
             </style>
             <div class="root">
