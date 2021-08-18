@@ -1,0 +1,105 @@
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                :root{
+                    --bounce: cubic-bezier(0.42, 0, 0.1, 1.35);
+                    --everything-size: 42px;
+                    --border-radius: 12px;
+                    --dark-col: #3D1015;
+                    --light-col: #960e25;
+                    --text-border-col: #f8f0f0;
+                }
+                @keyframes fadeIn {
+                    100%{opacity: 1;}
+                }
+                @keyframes left-Slide {
+                    0%{
+                        transform: translateX(-100%);
+                        opacity: 0;
+                    }
+                    100%{
+                        transform: translateX(0);
+                        opacity: 1;
+                    }
+                }
+                @keyframes spin {
+                    0%{transform:scale(0.8);}
+                    100%{transform:scale(0.8) rotate(360deg);}
+                }
+                .root {
+                    top: 0;
+                    left: 0;
+                    height: 800px;
+                    width: 800px;
+                    position: absolute;
+                    font-family: 'JetBrains Mono', monospace;
+                    font-weight: bold;
+                    color: var(--text-border-col);
+                }
+                .top, .bottom {
+                    display: grid;
+                    height: max-content;
+                    grid-gap: var(--everything-size);
+                }
+                .top {
+                    grid-template-columns: 7fr 9fr;
+                }
+                .top .left {
+                    opacity: 0;
+                    animation: left-Slide 1.5s 0.75s var(--bounce) forwards;
+                }
+                .top .right {
+                    display: flex;
+                    justify-content: space-between;
+                    animation: left-Slide 1.5s var(--bounce);
+                    align-items: center;
+                }
+                .middle {
+                    padding: 0;
+                    position: relative;
+                    animation: left-Slide 1.5s 0.5s var(--bounce) forwards;
+                    opacity: 0;
+                }
+                .bottom {
+                    grid-template-columns: 9fr 7fr;
+                }
+                .bottom .left {
+                    animation: left-Slide 1.5s 0.42s var(--bounce) forwards;
+                    opacity: 0;
+                }
+                .bottom .right {
+                    animation: left-Slide 1.5s 0.12s var(--bounce) forwards;
+                    opacity: 0;
+                }
+                .bottom .right {
+                    display: grid;
+                    place-content: center;
+                }
+            </style>
+            <div class="root">
+                <div class="content">
+                    <div class="top">
+                        Test
+                    </div>
+                    <div class="middle block">
+                        Test
+                    </div>
+                    <div class="bottom">
+                        <div class="left block">
+                            Test
+                        </div>
+                        <div class="right block">
+                            Test
+                        </div>
+                    </div>
+                </div>
+                    <radialGradient id="rd-1" cx="0" cy="1" r="1">
+                        <stop offset="0" stop-color="#3D1015"/>
+                        <stop offset="1" stop-color="#960e25"/>
+                    </radialGradient>
+                </svg>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
