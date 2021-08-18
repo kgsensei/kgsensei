@@ -94,11 +94,6 @@
                         </div>
                     </div>
                 </div>
-                    <radialGradient id="rd-1" cx="0" cy="1" r="1">
-                        <stop offset="0" stop-color="#3D1015"/>
-                        <stop offset="1" stop-color="#960e25"/>
-                    </radialGradient>
-                </svg>
             </div>
         </div>
     </foreignObject>
