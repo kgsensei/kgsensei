@@ -1,24 +1,25 @@
 <svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .root{
-                    background-color:transparent;
-                }.title{
-                    font-family:'Courier New',Courier,monospace;
-                    color:white;
-                    font-size:30px;
-                }.conte{
-					font-family:'Courier New',Courier,monospace;
-                    color:white;
-                    font-size:20px;
-					white-space:pre;
-				}
-            </style>
-            <div class="root">
-				<div class="title">~kgsensei</div>
-				<div class="conte">  Hello, Im a young coder working to make the world a better and more entertaining place for all. If you need help with my projects feel free to join my discord server: <a href="https://discord.gg/uTc9uBmBGT">here</a> or open a GitHub issue.</div>
-            </div>
-        </div>
-    </foreignObject>
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+.root{
+background-color:transparent;
+}.title{
+font-family:'Courier New',Courier,monospace;
+color:white;
+font-size:30px;
+}.conte{
+font-family:'Courier New',Courier,monospace;
+color:white;
+font-size:20px;
+white-space:pre;
+}
+</style>
+<div class="root">
+<div class="title">kgsensei</div>
+<div class="conte"> Hello, Im a young coder working to make the world a better and more entertaining place for all. If you need help with my projects feel free to join my discord server: <a href="https://discord.gg/uTc9uBmBGT">here</a> or open a GitHub issue.</div>
+<embed src="https://github-readme-stats.vercel.app/api?username=kgsensei&theme=tokyonight&card_width=400&hide_title=true&bg_color=DEG,0d1117,0d1117,8b949e&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"></embed>
+</div>
+</div>
+</foreignObject>
 </svg>
