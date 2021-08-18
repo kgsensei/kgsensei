@@ -3,23 +3,22 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .root{
-                    	background-color:transparent;
+                    background-color:transparent;
                 }.title{
-                    	font-family:'Courier New',Courier,monospace;
-                    	color:white;
-                    	font-size:30px;
+                    font-family:'Courier New',Courier,monospace;
+                    color:white;
+                    font-size:30px;
                 }.conte{
-			font-family:'Courier New',Courier,monospace;
-                    	color:white;
-                    	font-size:20px;
-		}
+					font-family:'Courier New',Courier,monospace;
+                    color:white;
+                    font-size:20px;
+					white-space:pre;
+				}
             </style>
             <div class="root">
-		<div class="title">kgsensei</div>
-		<div class="conte">
-			Hello, Im a young coder working to make the world a better and more entertaining place for all.
-			If you need help with my projects feel free to join my discord server: <a href="https://discord.gg/uTc9uBmBGT">here</a> or open a GitHub issue.
-		</div>
+				<div class="title">~kgsensei</div>
+<div class="conte">		Hello, Im a young coder working to make the world a better and more entertaining place for all.
+If you need help with my projects feel free to join my discord server: <a href="https://discord.gg/uTc9uBmBGT">here</a> or open a GitHub issue.</div>
             </div>
         </div>
     </foreignObject>
