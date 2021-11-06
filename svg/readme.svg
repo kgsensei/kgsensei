@@ -88,36 +88,35 @@ animation:greenG 10s ease infinite;
 <div class="title"><b>kgsensei</b></div>
 <div class="conte">
 Hello, Im a young coder working to make the world a better and
-more entertaining place for all. If you need help with my projects
-feel free to join my discord [https://discord.gg/uTc9uBmBGT].
+more entertaining place for all.
 </div>
 <div class="allowwhitespace">
 
 </div>
 <div class="project">
 <h2 class="allowwhitespace"> <span style="color:rgb(51,221,255);">Blooket</span> Hack</h2>
-<h4 class="allowwhitespace"> One of the first blooket hacks online and the only working one currently.</h4>
+<h4 class="allowwhitespace"> One of the first blooket hacks online; longest lasting one.</h4>
 </div>
 <div class="allowwhitespace">
 
 </div>
 <div class="project">
 <h2 class="allowwhitespace greenG"> XCrypt</h2>
-<h4 class="allowwhitespace"> A lightweight encryption library for Python. Install with [<code>pip install xcrypt</code>].</h4>
+<h4 class="allowwhitespace"> A lightweight encryption library for Python.</h4>
 </div>
 <div class="allowwhitespace">
 
 </div>
 <div class="project">
 <h2 class="allowwhitespace"> Nitro<span style="color:crimson;">Type</span> Auto Typer</h2>
-<h4 class="allowwhitespace"> A small cheat for Nitro<span style="color:crimson;">Type</span> that allows for automated typing.</h4>
+<h4 class="allowwhitespace"> A cheat for Nitro<span style="color:crimson;">Type</span> that allows for automated typing.</h4>
 </div>
 <div class="allowwhitespace">
 
 </div>
 <div class="project">
 <h2 class="allowwhitespace rainbow"> RainyDais (RainyDais.com)</h2>
-<h4 class="allowwhitespace"> A social media project I work on in my free time. Source code is private.</h4>
+<h4 class="allowwhitespace"> A social media hobby project. Source code is private.</h4>
 </div>
 </div>
 </div>
