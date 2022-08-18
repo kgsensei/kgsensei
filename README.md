@@ -1,7 +1,7 @@
-## Hey.
+## Hello!
 
-I'm kgsensei.
+I'm kgsensei, a young programmer just starting to make a name for themselves!
 
-My support discord server is [here](https://discord.gg/U5A3QWXZKZ).
+![kgsensei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgsensei&show_icons=true&theme=radical)
 
-Goodbye.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgsensei&langs_count=10&layout=compact&theme=radical)
