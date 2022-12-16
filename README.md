@@ -22,7 +22,7 @@ These are all things I have, at least a little, experience in.
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-line.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width="50" height="50"/>
@@ -30,14 +30,14 @@ These are all things I have, at least a little, experience in.
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
