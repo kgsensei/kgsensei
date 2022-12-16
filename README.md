@@ -31,7 +31,7 @@ These are all things I have, at least a little, experience in.
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="50" height="50"/>
