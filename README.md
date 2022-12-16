@@ -8,6 +8,8 @@ Here are some helpful links you might need:
 
 ## My Experience
 
+These are all things I have, at least a little, experience in.
+
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="50"/>
