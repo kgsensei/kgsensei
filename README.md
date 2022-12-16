@@ -42,4 +42,5 @@ Here are some helpful links you might need:
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50" height="50">
 </div>
