@@ -39,10 +39,15 @@ These are all things I have, at least a little, experience in.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50" height="50"/>
+</div>
+
+## GitHub Stats & Stuff
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kgsensei&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
