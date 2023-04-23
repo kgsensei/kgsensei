@@ -2,9 +2,13 @@
 
 I'm kgsensei, a young programmer just starting to make a name for themselves!
 
-Here are some helpful links you might need:
+RainyDais - A user focused social media service - [RainyDais.com](https://rainydais.com)  
+PieClicker - A fun baking themed clicker/idle game - [PieClicker.com](https://pieclicker.com)  
+Portfolio - Literally just my main developer website - [kgsensei.dev](https://kgsensei.dev)
 
-[Main Website](https://kgsensei.dev) | [Support Website](https://support.kgsensei.dev) | [Discord Server](https://link.kgsensei.dev/discord)
+Here are additional links you might need:
+
+[Support Website](https://support.kgsensei.dev) | [Discord Server](https://link.kgsensei.dev/discord)
 
 ## My Experience
 
